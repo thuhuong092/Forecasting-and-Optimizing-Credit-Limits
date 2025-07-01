@@ -5,3 +5,13 @@ Mục tiêu chung của dự án là xây dựng mô hình học máy hỗ trợ
 # Bộ dữ liệu bao gồm các thông tin
 Nhóm đặc điểm nhân khẩu học như: Tuổi, giới tính, trình độ học vấn, tình trạng hôn nhân.
 Nhóm đặc điểm tài chính bao gồm: Hạn mức tín dụng, Tình trạng thanh toán trong 6 tháng, Số dư hóa đơn trong 6 tháng, Số tiền thanh toán trong 6 tháng, Nguy cơ vỡ nợ của khách hàng.
+# Mô hình học máy 
+1. Random Forest
+2. XGBoost
+3. Support Vector Regression
+# Các bước thực hiện
+1. Tiền xử lý dữ liệu
+2. Khám phá dữ liệu
+3. Xây dựng mô hình Random Forest, XGBoost, SVR dự đoán hạn mức tín dụng của khách hàng.
+4. Đánh giá và so sánh kết quả giữa ba mô hình.
+5. Xây dựng giao diện dự đoán hạn mức tín dụng.
